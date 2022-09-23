@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 **研究方向**
 
 1. 生物多组学大数据的信息挖掘  
