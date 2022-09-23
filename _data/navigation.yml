@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Abount me"
-    url: /abount-me/
+  - title: "About me"
+    url: /about-me/
 
   - title: "Publications"
     url: /publications/
