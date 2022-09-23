@@ -42,7 +42,7 @@ author_profile: true
   
 [12] Ji, G., Guan, J., Zeng, Y., Li, Q. Q., and Wu, X.* (2015) Genome-wide identification and predictive modeling of polyadenylation sites in eukaryotes. Briefings in Bioinformatics 16, 304-313 (JCR1#, Top)  
   
-[13] Zhao, Z., Wu, X., Raj Kumar, P. K., Dong, M., Ji, G., Li, Q. Q., and Liang, C. (2014) Bioinformatics Analysis of Alternative Polyadenylation in Green Alga Chlamydomonas reinhardtii Using Transcriptome Sequences from Three Different Sequencing Platforms. G3: Genes|Genomes|Genetics 4, 871-883 (JCR3#)  
+[13] Zhao, Z., Wu, X., Raj Kumar, P. K., Dong, M., Ji, G., Li, Q. Q., and Liang, C. (2014) Bioinformatics Analysis of Alternative Polyadenylation in Green Alga Chlamydomonas reinhardtii Using Transcriptome Sequences from Three Different Sequencing Platforms. G3: Genes/Genomes/Genetics 4, 871-883 (JCR3#)  
   
 [14] Wu, X., Gaffney, B., Hunt, A., and Li, Q. (2014) Genome-wide determination of poly(A) sites in Medicago truncatula: evolutionary conservation of alternative poly(A) site choice. BMC Genomics 15, 615 (JCR2#)  
   
