@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "吴小惠"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "吴小惠"
 description              : &description "personal description"
 url                      : https://xwu-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
