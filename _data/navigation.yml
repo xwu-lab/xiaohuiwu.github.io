@@ -5,19 +5,19 @@ main:
 
   - title: "团队成员"
     url: /students/
-    
+ 
   - title: "学术论文"
     url: /publications/
 
   - title: "科研项目"
     url: /projects/
-      
+
   - title: "教学工作"
     url: /teach/
-        
+
   - title: "聚会活动"
     url: /funfun/
-    
+
   - title: "欢迎加入"
     url: /comecome/
 
