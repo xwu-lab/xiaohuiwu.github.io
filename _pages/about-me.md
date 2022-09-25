@@ -5,10 +5,6 @@ permalink: /about-me/
 author_profile: true
 redirect_from:
   - /resume
-<!--  redirect_from: 
-  - /about-me/
-  - /about-me.html  -->
-  
 ---
 
 {% include base_path %}
