@@ -19,13 +19,19 @@ author_profile: true
 
 - Ye W, Lian Q, Ye C, **Wu X\***
   A survey on computational approaches for predicting polyadenylation sites from DNA sequences, bulk RNA-seq and single-cell RNA-seq
+  
   **Genomics, Proteomics & Bioinformatics**
+  
   [Full Text](https://authors.elsevier.com/sd/article/S1672022922001218)
+  
 
 - Liu M, Hao L, Yang S, **Wu X\***
   PolyAtailor: measuring poly(A) tail length from short-read and long-read sequencing data
+  
   **Briefings in Bioinformatics**
+  
   [Full Text](https://doi.org/10.1093/bib/bbac271)  [PubMed](https://pubmed.ncbi.nlm.nih.gov/35769001/)
+  
 - Leote AC#, Wu X#(共同第一), Beyer A. 2022. Regulatory network-based imputation of dropouts in single-cell RNA sequencing data. PLOS Computational Biology 18(2):e1009849: 1-26. (IF: 4.495)
   Zhu S, Lian Q, Ye W, Qin W, Wu Z, Ji G, Wu X(通讯). 2021. scAPAdb: a comprehensive database of alternative polyadenylation at single-cell resolution. Nucleic Acids Research 50(D1): D365-D370. (IF: 16.971)
   Wu X(通讯), Liu T, Ye C, Ye W, Ji G. 2021. scAPAtrap: identification and quantification of alternative polyadenylation sites from single-cell RNA-seq data. Briefings in Bioinformatics 22(4): 1-15. (IF: 11.622)
