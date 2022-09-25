@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"吴小惠"
+title                    : "吴小惠"
 title_separator          : "-"
 name                     : &name "吴小惠"
 description              : &description "personal description"
