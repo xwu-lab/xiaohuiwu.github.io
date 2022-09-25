@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "吴小惠 (Xiaohui Wu)"
   avatar           : "xwu.jpg"
-  bio              : "苏州大学巴斯德学院特聘教授，博导，国家优青"
+  bio              : "苏州大学特聘教授，博导，国家优青"
   location         : "苏州市"
   employer         :
-  pubmed           : 
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=%28xiaohui+wu%5BAuthor%5D%29+AND+%28polyadenylation%5BTitle%2FAbstract%5D%29&sort="
   googlescholar    : 
   email            : 'xhwu@suda.edu.cn'
   researchgate     : "https://www.researchgate.net/profile/Xiaohui-Wu-6"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"xwu-lab"
+  github           : "https://github.com/BMILAB"
   google_plus      :
   keybase          :
   instagram        :
