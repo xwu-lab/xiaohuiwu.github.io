@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "教学工作"
+permalink: /teach/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
 ## **任教经历：**
 
 - 2012/09 - 2020/07  生物信息学基础（32学时/本科生，厦门大学）
