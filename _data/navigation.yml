@@ -13,12 +13,12 @@ main:
     url: /projects/
       
   - title: "教学工作"
-    url: /teaching/
+    url: /teach/
         
   - title: "聚会活动"
-    url: /activities/
+    url: /funfun/
     
   - title: "欢迎加入"
-    url: /services/
+    url: /comecome/
 
     
