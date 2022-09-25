@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "XWU-LAB"
+title: "Abount me"
 permalink: /about-me/
 author_profile: true
 redirect_from:
@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-**XWU-LAB PI简介：**
+
+
+## PI简介
 
 吴小惠教授现为苏州大学[苏州医学院](http://medical.suda.edu.cn/)[巴斯德学院]( http://pasteur.suda.edu.cn/)特聘教授、博导、国家优青。
 
@@ -18,18 +20,20 @@ redirect_from:
 至今主持7项国家及省部级项目（包括**1项NSFC优秀青年基金、2项NSFC面上和1项NSFC青年**）和1项横向项目。截至2022年10月发表SCI论文**60**余篇，其中以**第一或通讯作者**在领域内优秀刊物包括*PNAS、Genome Research、Nucleic Acids Research、Briefings in Bioinformatics、Genomics, Proteomics & Bioinformatics、Bioinformatics、PLoS computational biology、Plant Physiology、Plant Journal*等期刊发表论文，单篇最高引用**260**余次（第一作者）。
 
 
-**教育经历：**
+
+## 教育经历：
 
 2006/09 - 2011/07，厦门大学，自动化，博士
 
 2002/09 - 2006/07，厦门大学，自动化，学士
 
 
-**科研与学术工作经历：**
+
+## **科研与学术工作经历：**
 
 2021/07 -至今，	苏州大学，巴斯德学院，特聘教授
 
-2015/08 -2021/06，	厦门大学，航空航天学院/自动化系，副教授
+2015/08 -2021/06，厦门大学，航空航天学院/自动化系，副教授
 
 2011/09 - 2015/07，厦门大学，信息科学与技术学院/自动化系，助理教授
 
