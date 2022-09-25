@@ -2,7 +2,7 @@
 layout: archive
 title: "欢迎加入"
 permalink: /comecome/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
