@@ -15,7 +15,7 @@ redirect_from:
 
 主要研究方向为生物信息学和健康医疗大数据，属信息控制与生物医学的多学科交叉研究，重点关注单细胞和生物多组学大数据的信息挖掘、机器学习模型和分析工具开发、数据库和生医信息平台建设。
 
-至今主持7项国家及省部级项目（包括1项NSFC优秀青年基金、2项NSFC面上和1项NSFC青年）和1项横向项目。截至2022年10月发表SCI论文60余篇，其中以第一或通讯作者在领域内优秀刊物包括PNAS、Genome Research、Nucleic Acids Research、Briefings in Bioinformatics、Genomics, Proteomics & Bioinformatics、Bioinformatics、PLoS computational biology、Plant Physiology、Plant Journal等期刊发表论文，单篇最高引用260余次（第一作者）。
+至今主持7项国家及省部级项目（包括1项NSFC优秀青年基金、2项NSFC面上和1项NSFC青年）和1项横向项目。截至2022年10月发表SCI论文60余篇，其中以**第一或通讯作者（含共同）**在领域内优秀刊物包括*PNAS、Genome Research、Nucleic Acids Research、Briefings in Bioinformatics、Genomics, Proteomics & Bioinformatics、Bioinformatics、PLoS computational biology、Plant Physiology、Plant Journal*等期刊发表论文，单篇最高引用260余次（第一作者）。
 
 
 **教育经历：**
