@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 代表性论文（第一或通讯作者）
+## 代表性论文（第一或通讯作者）
 
 ## 2022
 
@@ -134,7 +134,7 @@ author_profile: true
 
   
 
-# 代表性论文（合作作者）
+## 代表性论文（合作作者）
 
 - Ye C\*, Zhao D, Ye W, **Wu X**, Li Q, Lin J\*. 2021. QuantifyPoly(A): reshaping alternative polyadenylation landscapes of eukaryotes with weighted density peak clustering. **Briefings in Bioinformatics** bbab268.*
 - Ye C\*#, Zhou Q\#, **Wu X**, Yu C, Ji G, Saban DR, Li QQ. 2019. scDAPA: detection and visualization of dynamic alternative polyadenylation from single cell RNA-seq data. **Bioinformatics** 36(4):1262-1264.
