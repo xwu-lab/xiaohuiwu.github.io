@@ -3,21 +3,21 @@ main:
   - title: "About me"
     url: /about-me/
 
-  - title: "团队成员"
+  - title: "Team"
     url: /students/
     
-  - title: "学术论文"
+  - title: "Publications"
     url: /publications/
 
-  - title: "科研项目"
+  - title: "Projects"
     url: /projects/    
 
-   - title: "教学工作"
+   - title: "Teaching"
      url: /teaching/    
     
-  - title: "新闻动态"
+  - title: "Services"
     url: /services/
         
-  - title: "聚会活动"
+  - title: "Activities"
     url: /activities/
     
