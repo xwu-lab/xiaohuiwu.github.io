@@ -14,4 +14,4 @@ redirect_from:
 
 ------
 
-![](/xwu-lab.github.io/images/fun1.jpg) 
+![](/images/fun1.jpg) 
