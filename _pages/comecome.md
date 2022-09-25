@@ -2,7 +2,7 @@
 layout: archive
 title: "欢迎加入"
 permalink: /comecome/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
@@ -12,7 +12,7 @@ redirect_from:
 
 **基本要求如下：**
 
-- 35周岁以下
+- 35周岁以下；
 
 - 有较强的科研能力和学术研究潜力，以第一作者在国际重要刊物发表过论文；
 
