@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "欢迎加入"
+permalink: /comecome/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
 XWU-LAB（纯生信，无湿实验）长期招聘**博士后**（35岁以下），基本要求如下：
 
 - 有较强的科研能力和学术研究潜力，以第一作者在国际重要刊物发表过论文；
