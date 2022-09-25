@@ -3,11 +3,11 @@ layout: archive
 title: "Abount me"
 permalink: /about-me/
 author_profile: true
-<!-- redirect_from:
-  - /resume -->
- redirect_from: 
+redirect_from:
+  - /resume
+<!--  redirect_from: 
   - /about-me/
-  - /about-me.html 
+  - /about-me.html  -->
   
 ---
 
