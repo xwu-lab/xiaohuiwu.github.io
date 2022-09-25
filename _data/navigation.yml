@@ -3,17 +3,17 @@ main:
   - title: "About me"
     url: /about-me/
 
-  - title: "Team"
+  - title: "团队成员"
     url: /students/
     
-  - title: "Publications"
+  - title: "学术论文"
     url: /publications/
 
   - title: "Projects"
     url: /projects/
       
-#   - title: "Teaching"
-#      url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
     
   - title: "Services"
     url: /services/
