@@ -66,7 +66,7 @@ author_profile: true
   Differential alternative polyadenylation contributes to the developmental divergence between two rice subspecies Japonica and Indica
   **The Plant Journal**
   [FullText](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14209) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/30570805/) 
--  Zhu S, **Wu X\***, Fu H, Ye C, Chen M, Jiang Z*, Ji G\*
+-  Zhu S, **Wu X\***, Fu H, Ye C, Chen M, Jiang Z\*, Ji G\*
   Modeling of genome-wide polyadenylation signals in *Xenopus tropicalis*
   **Frontiers in Genetics**
   [FullText](10.3389/fgene.2019.00647) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31333724/) 
