@@ -9,15 +9,15 @@ main:
   - title: "学术论文"
     url: /publications/
 
-  - title: "Projects"
+  - title: "科研项目"
     url: /projects/
       
-  - title: "Teaching"
+  - title: "教学工作"
     url: /teaching/
     
-  - title: "Services"
+  - title: "新闻动态"
     url: /services/
         
-  - title: "Activities"
+  - title: "聚会活动"
     url: /activities/
     
