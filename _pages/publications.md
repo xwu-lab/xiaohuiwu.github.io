@@ -48,11 +48,11 @@ author_profile: true
   **Bioinformatics**
   [FullText](https://doi.org/10.1093/bioinformatics/btz627) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31392316/) | [Tool](https://github.com/BMILAB/scHinter)
 - Zhu S#, Ye W#, Ye L, Fu H, Ye C, Xiao X, Ji Y, Lin W, Ji G, **Wu X\***
-  PlantAPAdb: A Comprehensive Database for Alternative Polyadenylation Sites in Plants
+  PlantAPAdb: a comprehensive database for alternative polyadenylation sites in plants
   **Plant Physiology**
   [FullText](https://doi.org/10.1104/pp.19.00943) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31767692/) | [Database](http://www.bmibig.cn/plantAPAdb/)
 - Ye W#, Wang T#, Wei W, Lou S, Lan F, Zhu S, Li Q, Ji G, Lin C, **Wu X\***, Ma L\*
-  The full-length transcriptome of Spartina alterniflora reveals the complexity of high salt tolerance in monocotyledonous halophyte
+  The full-length transcriptome of *Spartina alterniflora* reveals the complexity of high salt tolerance in monocotyledonous halophyte
   **Plant and Cell Physiology**
   [FullText](https://doi.org/10.1093/pcp/pcaa013)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/32044993/) | [Database](http://plantpolya.org/SAPacBio/)
 
@@ -60,12 +60,24 @@ author_profile: true
 
 -  Ji G, Ye W, Su Y, Chen M, Huang G, **Wu X\***
   AStrap: identification of alternative splicing from transcript sequences without a reference genome
-  **Bioinformatics **
+  **Bioinformatics**
   [FullText](https://doi.org/10.1093/bioinformatics/bty1008) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/30535139/) | [Tool](https://github.com/BMILAB/AStrap)
 - Zhou Q#, Fu H#, Yang D, Ye C, Zhu S, Lin J, Ye W, Ji G, Ye X, **Wu X\***, Li QQ\*
   Differential alternative polyadenylation contributes to the developmental divergence between two rice subspecies Japonica and Indica
   **The Plant Journal**
   [FullText](https://onlinelibrary.wiley.com/doi/10.1111/tpj.14209) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/30570805/) 
+-  Zhu S, **Wu X\***, Fu H, Ye C, Chen M, Jiang Z*, Ji G\*
+  Modeling of genome-wide polyadenylation signals in *Xenopus tropicalis*
+  **Frontiers in Genetics**
+  [FullText](10.3389/fgene.2019.00647) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31333724/) 
+-  Ye W#, Long Y#, Ji G, Su Y, Ye P, Fu H, **Wu X\***
+  Cluster analysis of replicated alternative polyadenylation data using canonical correlation analysis
+  **BMC Genomics**
+  [FullText](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5433-7) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/30669970/) | [Tool](https://github.com/BMILAB/PASCCA)
+-  Ye W, Ji G, Ye P, Long Y, Xiao X, Li S, Su Y, **Wu X***
+  scNPF: an integrative framework assisted by network propagation and network fusion for preprocessing of single-cell RNA-seq data
+  **BMC Genomics**
+  [FullText](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5747-5) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31068142/) | [Tool](https://github.com/BMILAB/scNPF)
 
 ## 2018
 
@@ -85,6 +97,11 @@ author_profile: true
   **Genome Research, 2016**
   [FullText](https://genome.cshlp.org/content/26/12/1753) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/27733415/) 
 
+- **Wu X\***, Zhang Y, Li QQ\*
+  PlantAPA: a portal for visualization and analysis of alternative polyadenylation in plants
+  **Frontiers in Plant Science, 2017**
+  [FullText](https://www.frontiersin.org/articles/10.3389/fpls.2016.00889/full) | [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4914594/) 
+
 - Ji G, Guan J, Zeng Y, Li QQ, **Wu X\***
   Genome-wide identification and predictive modeling of polyadenylation sites in eukaryotes
   **Briefings in Bioinformatics, 2015**
@@ -94,6 +111,21 @@ author_profile: true
   PASPA: a web server for mRNA poly(A) site predictions in plants and algae
   **Bioinformatics, 2015**
   [FullText](https://doi.org/10.1093/bioinformatics/btv004) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/25583118/) | [Tool](http://www.bmibig.cn/mnt/tools/paspa/)
+
+- **Wu X\***, Zeng Y, Guan J, Ji G, Huang R, **Li QQ\***
+  Genome-wide characterization of intergenic polyadenylation sites redefines gene spaces in *Arabidopsis thaliana*
+  **BMC Genomics, 2015**
+  [FullText](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1691-1) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/26155789/) 
+
+- **Wu X**, Gaffney B, Hunt A\*, Li Q\*
+  Genome-wide determination of poly(A) sites in *Medicago truncatula*: evolutionary conservation of alternative poly(A) site choice
+  **BMC Genomics, 2014**
+  [FullText](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-615) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/25048171/) 
+
+- **Wu X\***, Ji G, Zeng Y
+  In silico prediction of mRNA poly(A) sites in *Chlamydomonas reinhardtii*
+  **Mol Genet Genomics, 2012**
+  [FullText](https://link.springer.com/article/10.1007/s00438-012-0725-5) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/23108961/) 
 
 - **Wu X**, Liu M, Downie B, Liang C, Ji G, Li QQ\*, Hunt AG\*
   Genome-wide landscape of polyadenylation in Arabidopsis provides evidence for extensive alternative polyadenylation
@@ -106,10 +138,10 @@ author_profile: true
 
 - Ye C\*, Zhao D, Ye W, **Wu X**, Li Q, Lin J\*. 2021. QuantifyPoly(A): reshaping alternative polyadenylation landscapes of eukaryotes with weighted density peak clustering. **Briefings in Bioinformatics** bbab268.*
 - Ye C\*#, Zhou Q\#, **Wu X**, Yu C, Ji G, Saban DR, Li QQ. 2019. scDAPA: detection and visualization of dynamic alternative polyadenylation from single cell RNA-seq data. **Bioinformatics** 36(4):1262-1264.
-- Li H#, Ye C#, Ji G\*, **Wu X**, Xiang Z, Li Y, Cao Y, Liu X, Douek D, Price D, Han J\*. 2012. Recombinatorial Biases and Convergent Recombination Determine Interindividual TCR beta Sharing in Murine Thymocytes. **Journal of Immunol** 189(5):2404-2413. 
-- Thomas PE, **Wu X**, Liu M, Gaffney B, Ji G, Li QQ\*, Hunt AG\*. 2012. Genome-Wide Control of Polyadenylation Site Choice by CPSF30 in Arabidopsis. **Plant Cell** 24(11):4376-4388.
-- Fu H, Wang P, **Wu X**, Zhou X, Ji G, Shen Y, Gao Y, Li QQ\*, Liang J\*. 2019. Distinct genome-wide alternative polyadenylation during the response to silicon availability in the marine diatom Thalassiosira pseudonana. **Plant Journal** 99(10):67-80.
-- Lin J, Xu R, **Wu X**, Shen Y, Li QQ\*. 2017. Role of Cleavage and Polyadenylation Specificity Factor 100: Anchoring Poly(A) Sites and Modulating Transcription Termination. **Plant Journal** 91:829-839.
+- Li H#, Ye C#, Ji G\*, **Wu X**, Xiang Z, Li Y, Cao Y, Liu X, Douek D, Price D, Han J\*. 2012. Recombinatorial biases and convergent recombination determine interindividual TCR beta sharing in *Murine Thymocytes*. **Journal of Immunol** 189(5):2404-2413. 
+- Thomas PE, **Wu X**, Liu M, Gaffney B, Ji G, Li QQ\*, Hunt AG\*. 2012. Genome-wide control of polyadenylation site choice by CPSF30 in Arabidopsis. **Plant Cell** 24(11):4376-4388.
+- Fu H, Wang P, **Wu X**, Zhou X, Ji G, Shen Y, Gao Y, Li QQ\*, Liang J\*. 2019. Distinct genome-wide alternative polyadenylation during the response to silicon availability in the marine diatom *Thalassiosira pseudonana*. **Plant Journal** 99(10):67-80.
+- Lin J, Xu R, **Wu X**, Shen Y, Li QQ\*. 2017. Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) sites and modulating transcription termination. **Plant Journal** 91:829-839.
 - Hong L, Ye C, Lin J, Fu H, **Wu X**, Li QQ\*. 2017. Alternative polyadenylation is involved in auxin-based plant growth and development. **Plant Journal** 93(2):246-258.
 - Shen Y, Venu RC, Nobuta K, **Wu X**, Notibala V, Demirci C, Meyers BC, Wang G-L, Ji G, Li QQ\*. 2011. Transcriptome dynamics through alternative polyadenylation in developmental and environmental responses in plants revealed by deep sequencing. **Genome Research** 21(9):1478-1486.
 - Shen Y, Ji G, Haas BJ, **Wu X**, Zheng J, Reese GJ, Li QQ\*. 2008. Genome level analysis of rice mRNA 3'-end processing signals and alternative polyadenylation. **Nucleic Acids Research** 36(9):3150-3161.
