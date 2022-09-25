@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "吴小惠"
+  name             : "吴小惠 (Xiaohui Wu)"
   avatar           : "xwu.jpg"
-  bio              : "苏州大学巴斯德学院特聘教授，博士生导师"
+  bio              : "苏州大学巴斯德学院特聘教授，博导，国家优青"
   location         : "苏州市"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : 'xhwu@suda.edu.cn'
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Xiaohui-Wu-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0356-7785"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
