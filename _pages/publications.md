@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# 第一或通讯作者（含共同）
+# 代表性论文（第一或通讯作者）
 
 ## 2022
 
@@ -26,44 +26,44 @@ author_profile: true
 - Liu M, Hao L, Yang S, **Wu X\***
   PolyAtailor: measuring poly(A) tail length from short-read and long-read sequencing data
   **Briefings in Bioinformatics**
-  [FullText](https://doi.org/10.1093/bib/bbac271)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35769001/) | [Tool](https://github.com/BMILAB/PolyAtailor)
+  [FullText](https://doi.org/10.1093/bib/bbac271) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35769001/) | [Tool](https://github.com/BMILAB/PolyAtailor)
 - Leote AC#, **Wu X#**, Beyer A\*
   Regulatory network-based imputation of dropouts in single-cell RNA sequencing data
   **PLOS Computational Biology**
-  [FullText](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009849)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35176023/) | [Tool](https://bioconductor.org/packages/release/bioc/html/ADImpute.html)
+  [FullText](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009849) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35176023/) | [Tool](https://bioconductor.org/packages/release/bioc/html/ADImpute.html)
 
 ## 2021
 
 - Zhu S, Lian Q, Ye W, Qin W, Wu Z, Ji G, **Wu X\***
   scAPAdb: a comprehensive database of alternative polyadenylation at single-cell resolution
   **Nucleic Acids Research**
-  [FullText](https://academic.oup.com/nar/article/50/D1/D365/6368523)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34508354/)| [Database](http://www.bmibig.cn/scAPAdb/)
+  [FullText](https://academic.oup.com/nar/article/50/D1/D365/6368523) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34508354/) | [Database](http://www.bmibig.cn/scAPAdb/)
 - **Wu X\***, Liu T, Ye C, Ye W, Ji G
   scAPAtrap: identification and quantification of alternative polyadenylation sites from single-cell RNA-seq data
   **Briefings in Bioinformatics**
-  [FullText](https://academic.oup.com/bib/article/22/4/bbaa273/5952304)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/33142319/)| [Tool](https://github.com/BMILAB/scAPAtrap)
+  [FullText](https://academic.oup.com/bib/article/22/4/bbaa273/5952304) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/33142319/) | [Tool](https://github.com/BMILAB/scAPAtrap)
 - Ye W#, Liu T#, Fu H, Ye C, Ji G\*, **Wu X\***
   movAPA: Modeling and visualization of dynamics of alternative polyadenylation across biological samples
   **Bioinformatics**
-  [FullText](https://doi.org/10.1093/bioinformatics/btaa997)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/33258917/) | [Tool](https://github.com/BMILAB/movAPA)
+  [FullText](https://doi.org/10.1093/bioinformatics/btaa997) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/33258917/) | [Tool](https://github.com/BMILAB/movAPA)
 
 ## 2020
 
 - Chen M, Ji G, Fu H, Lin Q, Ye C, Ye W, Su Y, **Wu X\***
   A survey on identification and quantification of alternative polyadenylation sites from RNA-seq data
   **Briefings in Bioinformatics**
-  [FullText](https://doi.org/10.1093/bib/bbz068)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31267126/) | [Code](https://github.com/BMILAB/APAsurvey)
+  [FullText](https://doi.org/10.1093/bib/bbz068) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31267126/) | [Code](https://github.com/BMILAB/APAsurvey)
 - Ye P, Ye W, Ye C, Li S, Ye L, Ji G, **Wu X\***
   scHinter: Imputing dropout events for single-cell RNA-seq data with limited sample size
   **Bioinformatics**
-  [FullText](https://doi.org/10.1093/bioinformatics/btz627)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31392316/) | [Tool](https://github.com/BMILAB/scHinter)
+  [FullText](https://doi.org/10.1093/bioinformatics/btz627) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31392316/) | [Tool](https://github.com/BMILAB/scHinter)
 - Zhu S#, Ye W#, Ye L, Fu H, Ye C, Xiao X, Ji Y, Lin W, Ji G, **Wu X\***
   PlantAPAdb: A Comprehensive Database for Alternative Polyadenylation Sites in Plants
   **Plant Physiology**
-  [FullText](https://doi.org/10.1104/pp.19.00943)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31767692/) | [Database](http://www.bmibig.cn/plantAPAdb/)
+  [FullText](https://doi.org/10.1104/pp.19.00943) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31767692/) | [Database](http://www.bmibig.cn/plantAPAdb/)
 - Ye W#, Wang T#, Wei W, Lou S, Lan F, Zhu S, Li Q, Ji G, Lin C, **Wu X\***, Ma L\*
   The full-length transcriptome of Spartina alterniflora reveals the complexity of high salt tolerance in monocotyledonous halophyte
-  Plant and Cell Physiology
+  **Plant and Cell Physiology**
   [FullText](https://doi.org/10.1093/pcp/pcaa013)  | [PubMed](https://pubmed.ncbi.nlm.nih.gov/32044993/) | [Database](http://plantpolya.org/SAPacBio/)
 
 ## 2019
