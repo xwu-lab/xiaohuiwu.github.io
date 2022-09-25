@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Abount me"
+title: "XWU-LAB"
 permalink: /about-me/
 author_profile: true
 redirect_from:
