@@ -27,7 +27,7 @@ redirect_from:
 欢迎感兴趣的同学邮件联系吴老师（xhwu（at）suda.edu.cn 或 xhuister (at) xmu.edu.cn），署名邮件必有回复。
 
 
-## 苏州大学博士后待遇详情：
+## 苏州大学博士后待遇详情
 
 [多重待遇加持！苏州大学面向全球诚聘全职博士后 2022-09-02](http://rsc.suda.edu.cn/bc/b1/c276a507057/page.htm)
 
