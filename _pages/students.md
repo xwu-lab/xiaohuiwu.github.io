@@ -3,6 +3,8 @@ layout: archive
 title: "团队成员"
 permalink: /students/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
