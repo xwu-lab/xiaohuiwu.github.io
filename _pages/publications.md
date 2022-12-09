@@ -9,10 +9,14 @@ author_profile: true
 
 ## 2022
 
+- Ji G, Tang Q, Zhu S, Zhu J, Ye P, Xia S, **Wu X\*** 
+  stAPAminer: Mining Spatial Patterns of Alternative Polyadenylation for Spatially Resolved Transcriptomic Studies
+  **Genomics, Proteomics & Bioinformatics (Accepted)**
+  [FullText]([https://authors.elsevier.com/sd/article/S1672022922001218](https://www.biorxiv.org/content/10.1101/2022.07.20.500789v1.full.pdf))
 - Ye W, Lian Q, Ye C, **Wu X\***
   A survey on computational approaches for predicting polyadenylation sites from DNA sequences, bulk RNA-seq and single-cell RNA-seq
   **Genomics, Proteomics & Bioinformatics**
-  [FullText](https://authors.elsevier.com/sd/article/S1672022922001218)
+  [FullText](https://authors.elsevier.com/sd/article/S1672022922001218) | [Tool](https://github.com/BMILAB/stAPAminer)
 - Liu M, Hao L, Yang S, **Wu X\***
   PolyAtailor: measuring poly(A) tail length from short-read and long-read sequencing data
   **Briefings in Bioinformatics**
