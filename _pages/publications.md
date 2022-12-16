@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 ## 代表性论文（第一或通讯作者）
+Taotao Wang (王涛涛)1,5†, Wenbin Ye (叶文斌)2,6†, Jiaxiang Zhang (张家祥)1,3†, Han Li (李涵)1,3, Weike Zeng (曾维科)1,3, Sheng Zhu (朱胜)2, Guoli Ji (吉国力)2, Xiaohui Wu (吴小惠)4*, Liuyin Ma (马留银)1*
 
 ## 2022
+- Wang T, Ye W, Zhang J, Li H, Zeng W, Zhu S, Ji G, **Wu X\***, Ma L*
+  Alternative 3′ UTRs regulate post-transcriptional gene expression under high salt stress in _Spartina alterniflora_
+  **Plant Physiology (Accepted)**[FullText](https://www.biorxiv.org/content/10.1101/2022.03.04.482946v1.full) 
 
 - Ji G, Tang Q, Zhu S, Zhu J, Ye P, Xia S, **Wu X\*** 
   stAPAminer: mining spatial patterns of alternative polyadenylation for spatially resolved transcriptomic studies
