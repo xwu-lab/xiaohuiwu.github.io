@@ -7,15 +7,18 @@ author_profile: true
 
 ## 代表性论文（第一或通讯作者）
 
-## 2022
+## 2023
+
 - Wang T, Ye W, Zhang J, Li H, Zeng W, Zhu S, Ji G, **Wu X\***, Ma L*
   Alternative 3′ UTRs regulate post-transcriptional gene expression under high salt stress in _Spartina alterniflora_
-  **Plant Physiology (Accepted)** [FullText](https://www.biorxiv.org/content/10.1101/2022.03.04.482946v1.full) 
-
+  **Plant Physiology** [FullText](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad030/6997591?login=true) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36682816/) 
 - Ji G, Tang Q, Zhu S, Zhu J, Ye P, Xia S, **Wu X\*** 
   stAPAminer: mining spatial patterns of alternative polyadenylation for spatially resolved transcriptomic studies
-  **Genomics, Proteomics & Bioinformatics (Accepted)**
-  [FullText](https://www.biorxiv.org/content/10.1101/2022.07.20.500789v1.full.pdf) | [Tool](https://github.com/BMILAB/stAPAminer)
+  **Genomics, Proteomics & Bioinformatics**
+  [FullText](https://www.sciencedirect.com/science/article/pii/S1672022923000037) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36669641/) | [Tool](https://github.com/BMILAB/stAPAminer)
+
+## 2022
+
 - Ye W, Lian Q, Ye C, **Wu X\***
   A survey on computational approaches for predicting polyadenylation sites from DNA sequences, bulk RNA-seq and single-cell RNA-seq
   **Genomics, Proteomics & Bioinformatics**
