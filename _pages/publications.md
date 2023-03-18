@@ -23,9 +23,9 @@ author_profile: true
 ## 2022
 
 - Ye W, Lian Q, Ye C, **Wu X\***
-  A survey on computational approaches for predicting polyadenylation sites from DNA sequences, bulk RNA-seq and single-cell RNA-seq
+  A survey on methods for predicting polyadenylation sites from DNA sequences, bulk RNA-seq and single-cell RNA-seq
   **Genomics, Proteomics & Bioinformatics**
-  [FullText](https://authors.elsevier.com/sd/article/S1672022922001218) 
+  [FullText](https://www.sciencedirect.com/science/article/pii/S1672022922001218?via%3Dihub) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36167284/)
 - Liu M, Hao L, Yang S, **Wu X\***
   PolyAtailor: measuring poly(A) tail length from short-read and long-read sequencing data
   **Briefings in Bioinformatics**
