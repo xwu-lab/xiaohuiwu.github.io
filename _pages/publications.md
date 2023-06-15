@@ -11,7 +11,7 @@ author_profile: true
 
 - Wang X#, Lian Q#, Dong H, Xu S, Su Y, **Wu X\***
   Benchmarking algorithms for gene set scoring of single-cell ATAC-seq data
-  **Preprint** [FullText](https://www.biorxiv.org/content/10.1101/2023.01.14.524081v1)
+  **Genomics, Proteomics & Bioinformatics (Accepted)** [FullText](https://www.biorxiv.org/content/10.1101/2023.01.14.524081v1)
 - Wang T#, Ye W#, Zhang J, Li H, Zeng W, Zhu S, Ji G, **Wu X\***, Ma L*
   Alternative 3′ UTRs regulate post-transcriptional gene expression under high salt stress in _Spartina alterniflora_
   **Plant Physiology** [FullText](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad030/6997591?login=true) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36682816/) 
