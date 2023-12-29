@@ -18,7 +18,7 @@ author_profile: true
 - Ji G, Tang Q, Zhu S, Zhu J, Ye P, Xia S, **Wu X\*** 
   stAPAminer: mining spatial patterns of alternative polyadenylation for spatially resolved transcriptomic studies
   **Genomics, Proteomics & Bioinformatics**
-  [FullText](https://www.sciencedirect.com/science/article/pii/S1672022923000037) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36669641/) | [Tool](https://github.com/BMILAB/stAPAminer)
+  [FullText](https://www.sciencedirect.com/science/article/pii/S1672022923000037?via%3Dihub) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36669641/) | [Tool](https://github.com/BMILAB/stAPAminer)
 
 ## 2022
 
