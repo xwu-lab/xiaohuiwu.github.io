@@ -22,7 +22,10 @@ author_profile: true
   **Frontiers in Plant Science** [FullText](https://10.3389/fpls.2024.1437118) 
 
 ## 2023
-
+- Ye W, Lian Q, Ye C, **Wu X\***
+  A survey on methods for predicting polyadenylation sites from DNA sequences, bulk RNA-seq and single-cell RNA-seq
+  **Genomics, Proteomics & Bioinformatics**
+  [FullText](https://www.sciencedirect.com/science/article/pii/S1672022922001218?via%3Dihub) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36167284/)
 - Wang T#, Ye W#, Zhang J, Li H, Zeng W, Zhu S, Ji G, **Wu X\***, Ma L*
   Alternative 3′ UTRs regulate post-transcriptional gene expression under high salt stress in _Spartina alterniflora_
   **Plant Physiology** [FullText](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad030/6997591?login=true) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36682816/) 
@@ -30,13 +33,17 @@ author_profile: true
   stAPAminer: mining spatial patterns of alternative polyadenylation for spatially resolved transcriptomic studies
   **Genomics, Proteomics & Bioinformatics**
   [FullText](https://www.sciencedirect.com/science/article/pii/S1672022923000037?via%3Dihub) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36669641/) | [Tool](https://github.com/BMILAB/stAPAminer)
+- Xu S, Kang L, Bi X, **Wu X\*** 
+  Integrative Analysis of Gene Expression and Alternative Polyadenylation from Single-Cell RNA-seq Data
+  **Bioinformatics Research and Applications. ISBRA 2023. Lecture Notes in Computer Science**
+  [FullText](https://10.1007/978-981-99-7074-2_24) 
+
 
 ## 2022
-
-- Ye W, Lian Q, Ye C, **Wu X\***
-  A survey on methods for predicting polyadenylation sites from DNA sequences, bulk RNA-seq and single-cell RNA-seq
-  **Genomics, Proteomics & Bioinformatics**
-  [FullText](https://www.sciencedirect.com/science/article/pii/S1672022922001218?via%3Dihub) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36167284/)
+- Zhu S, Lian Q, Ye W, Qin W, Wu Z, Ji G, **Wu X\***
+  scAPAdb: a comprehensive database of alternative polyadenylation at single-cell resolution
+  **Nucleic Acids Research**
+  [FullText](https://academic.oup.com/nar/article/50/D1/D365/6368523) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34508354/) | [Database](http://www.bmibig.cn/scAPAdb/)
 - Liu M, Hao L, Yang S, **Wu X\***
   PolyAtailor: measuring poly(A) tail length from short-read and long-read sequencing data
   **Briefings in Bioinformatics**
@@ -47,11 +54,6 @@ author_profile: true
   [FullText](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009849) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35176023/) | [Tool](https://bioconductor.org/packages/release/bioc/html/ADImpute.html)
 
 ## 2021
-
-- Zhu S, Lian Q, Ye W, Qin W, Wu Z, Ji G, **Wu X\***
-  scAPAdb: a comprehensive database of alternative polyadenylation at single-cell resolution
-  **Nucleic Acids Research**
-  [FullText](https://academic.oup.com/nar/article/50/D1/D365/6368523) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34508354/) | [Database](http://www.bmibig.cn/scAPAdb/)
 - **Wu X\***, Liu T, Ye C, Ye W, Ji G
   scAPAtrap: identification and quantification of alternative polyadenylation sites from single-cell RNA-seq data
   **Briefings in Bioinformatics**
