@@ -6,12 +6,23 @@ author_profile: true
 ---
 
 ## 代表性论文（第一或通讯作者）
-
-## 2023
+## 2024
 
 - Wang X#, Lian Q#, Dong H, Xu S, Su Y, **Wu X\***
   Benchmarking algorithms for gene set scoring of single-cell ATAC-seq data
-  **Genomics, Proteomics & Bioinformatics (Accepted)** [FullText](https://www.biorxiv.org/content/10.1101/2023.01.14.524081v1)
+  **Genomics, Proteomics & Bioinformatics** [FullText](10.1093/bioinformatics/btae417) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39049508/) 
+- Zhang Y#, Hu C#, **Wu X\***, Song J\*
+  Calib-RT: an open source python package for peptide retention time calibration in DIA mass spectrometry data
+  **Bioinformatics** [FullText](https://doi.org/10.1093/gpbjnl/qzae014) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38960865/) | [Tool](https://github.com/chenghui03/Calib_RT)
+- Bi X#, Ye W#, Chen X, Yang N, **Wu X\***
+  vizAPA: visualizing dynamics of alternative polyadenylation from bulk and single-cell data
+  **Bioinformatics** [FullText](https://10.1093/bioinformatics/btae099) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/38485700/) | [Tool](https://github.com/BMILAB/vizAPA)
+- Bi X#, Zhu S#, Liu F, **Wu X\***
+  Dynamics of alternative polyadenylation in single root cells of Arabidopsis thaliana
+  **Frontiers in Plant Science** [FullText](https://10.3389/fpls.2024.1437118) 
+
+## 2023
+
 - Wang T#, Ye W#, Zhang J, Li H, Zeng W, Zhu S, Ji G, **Wu X\***, Ma L*
   Alternative 3′ UTRs regulate post-transcriptional gene expression under high salt stress in _Spartina alterniflora_
   **Plant Physiology** [FullText](https://academic.oup.com/plphys/advance-article/doi/10.1093/plphys/kiad030/6997591?login=true) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36682816/) 
